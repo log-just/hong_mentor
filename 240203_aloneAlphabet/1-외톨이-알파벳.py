@@ -1,3 +1,6 @@
+# 문제 url
+# https://school.programmers.co.kr/learn/courses/20847/lessons/255900?language=python3
+
 def solution(input_string):
     if input_string == '':
         return "N"
